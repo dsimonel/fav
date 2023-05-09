@@ -1,0 +1,13 @@
+.home_layout {
+
+   &__video {
+      width: 612px;
+      height: 94vh;
+      background-color: #000;
+      border-radius: 8px;
+      @media screen and (max-width: 768px) {
+         width: 100vw;
+         height: 95vh;
+      }
+   }
+}

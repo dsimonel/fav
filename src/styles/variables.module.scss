@@ -1,0 +1,41 @@
+$light-1-color: #BBBBBB;
+$light-2-color: #888888;
+$light-3-color: #5D5D5D;
+$light-4-color: #444444;
+$light-5-color: #313131;
+
+$dark-1-color: #0B0B0B;
+$dark-2-color: #0C0C0C;
+$dark-3-color: #101010;
+$dark-4-color: #1C1C1C;
+$dark-5-color: #222222;
+
+$error-color: #FF4040;
+$success-color: #34A853;
+$warning-color: #FF8A1E;
+
+$dark-background-color: #121212;
+
+$follow-color: #9747FF;
+
+:export {
+    light1Color: $light-1-color;
+    light2Color: $light-2-color;
+    light3Color: $light-3-color;
+    light4Color: $light-4-color;
+    light5Color: $light-5-color;
+
+    dark1Color: $dark-1-color;
+    dark2Color: $dark-2-color;
+    dark3Color: $dark-3-color;
+    dark4Color: $dark-4-color;
+    dark5Color: $dark-5-color;
+
+    errorColor: $error-color;
+    successColor: $success-color;
+    warninColor: $warning-color;
+
+    darkBackgroundColor: $dark-background-color;
+
+    followColor: $follow-color;
+}

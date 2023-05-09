@@ -1,0 +1,10 @@
+.ui {
+   position: fixed;
+   z-index: 10;
+   width: 612px;
+   height: 94vh;
+   @media screen and (max-width: 768px) {
+      width: 100vw;
+      height: 95vh;
+   }
+}
